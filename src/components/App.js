@@ -4,7 +4,7 @@ import Header from "./header";
 import AddContact from "./AddContact";
 import ContactList from "./ContactList" ;
 function App() {
-
+  // Now implementing the funcionality to add number
   const contacts = [
     {
       id : "1" ,
